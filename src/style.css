@@ -5,7 +5,7 @@
 }
 
 body {
-  margin: 100px auto;
+  padding-top: 100px;
 }
 
 h1,
@@ -30,12 +30,10 @@ h3 {
 }
 
 p {
-  /* background: var(--secondary-color); */
   padding: 20px;
   border-radius: 4px;
   font-size: 18px;
   line-height: 1.5;
-  /* text-align: center; */
 }
 
 .welcome {
